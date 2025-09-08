@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Chitsidzo
 
 I'm an **Information Engineering student at TUM** with a passion for **embedded systems, AI, and GPU programming**. I enjoy building practical solutions that merge hardware and software to make technology more accessible and efficient.  
 
