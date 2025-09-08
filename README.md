@@ -20,7 +20,7 @@ I'm an **Information Engineering student at TUM** with a passion for **embedded 
 
 ## 🚀 Featured Project
 
-### [VisionStick Project](https://github.com/yourusername/vision-stick)  
+### [VisionStick Project](https://github.com/chits-nema/Vision-Stick)  
 The **VisionStick** is a smart system integrated with a mobility cane, designed to help visually impaired users navigate their surroundings. The device detects obstacles and alerts the user through a responsive alert system.  
 
 **Technologies used:** Python, OpenCV, Linux  
