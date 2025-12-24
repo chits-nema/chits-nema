@@ -14,7 +14,7 @@ I'm an **Information Engineering student at TUM** with a passion for **embedded 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF5733?style=flat)
 
-🌱 Currently learning **CUDA, advanced GPU programming, and embedded systems**  
+🌱 Currently learning **Hardware Design Languages, CUDA and Embedded Systems**  
 
 ---
 
