@@ -18,12 +18,17 @@ I'm an **Information Engineering student at TUM** with a passion for **embedded 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [VisionStick Project](https://github.com/chits-nema/Vision-Stick)  
 The **VisionStick** is a smart system integrated with a mobility cane, designed to help visually impaired users navigate their surroundings. The device detects obstacles and alerts the user through a responsive alert system.  
 
 **Technologies used:** Python, OpenCV, Linux  
+
+### [Duckietown — RL Obstacle Avoidance](https://github.com/nayachewsudon/duckietown-btown) *(collaborative project)*
+Extends autonomous lane following on a **DB21J** Duckiebot with a **TD3 (Twin Delayed DDPG)** reinforcement learning agent for real-time obstacle avoidance. The robot uses a Finite State Machine to switch between lane following, RL-guided avoidance, and emergency stop behaviours based on Time-of-Flight sensor input.
+ 
+**Technologies used:** Python, ROS, Docker, Reinforcement Learning (TD3)
 
 ---
 
